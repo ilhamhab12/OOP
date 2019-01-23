@@ -1,0 +1,6 @@
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.exe.config
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.pdb
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.csprojResolveAssemblyReference.cache
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.exe
+C:\Users\Habibie\Documents\Visual Studio 2015\Projects\Bootcamp\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.pdb
